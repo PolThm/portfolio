@@ -17,12 +17,20 @@ import paslchoix from "../img/paslchoix.jpg";
 import associationBabel from '../img/association-babel.jpg';
 import routines from '../img/routines.jpg';
 import mood from '../img/mood.jpg';
+import bailapp from '../img/bailapp.jpg';
 
 class MesRealisationsPage2 extends React.Component {
   render() {
     return(
       <Container fluid>
         <Row>
+        <Col md={6} lg={4}>
+            <Realisation
+              picture={bailapp}
+              description={"Bailapp (React.js, TS, Firebase (Auth, Hosting, Firestore), TanStack Query, PWA, Mobile-First, Tailwind CSS, Shadcn, i18n, Vite)"}
+              link={'https://bailapp.web.app/'}
+            />
+          </Col>
           <Col md={6} lg={4}>
             <Realisation
               picture={mood}
