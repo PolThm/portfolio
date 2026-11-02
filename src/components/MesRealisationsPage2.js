@@ -36,23 +36,9 @@ class MesRealisationsPage2 extends React.Component {
           </Col>
           <Col md={6} lg={4}>
             <Realisation
-              picture={sign13th}
-              description={"13th Sign (Next.js, React, TypeScript, Tailwind CSS, PWA, i18n FR/EN/ES, Vercel AI SDK, Upstash Redis, PostHog, Zustand, Vitest)"}
-              link={'https://13thsign.vercel.app/'}
-            />
-          </Col>
-          <Col md={6} lg={4}>
-            <Realisation
               picture={bailapp}
               description={"Bailapp (React.js, TS, Firebase (Auth, Hosting, Firestore), TanStack Query, PWA, Mobile-First, Tailwind CSS, Shadcn, i18n FR/EN/ES, Vite)"}
               link={'https://bailapp.web.app/'}
-            />
-          </Col>
-          <Col md={6} lg={4}>
-            <Realisation
-              picture={news5}
-              description={"5 News (Python, Astro, TypeScript, GitHub Actions cron, i18n FR/EN/ES, GDELT, Cohere, Claude Haiku, Vercel, PWA)"}
-              link={'https://5-news.vercel.app/'}
             />
           </Col>
           <Col md={6} lg={4}>
@@ -67,6 +53,20 @@ class MesRealisationsPage2 extends React.Component {
               picture={oarwise}
               description={"Oarwise (Next.js, React, TypeScript, Tailwind CSS)"}
               link={'https://oarwise.netlify.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
+            <Realisation
+              picture={sign13th}
+              description={"13th Sign (Next.js, React, TypeScript, Tailwind CSS, PWA, i18n FR/EN/ES, Vercel AI SDK, Upstash Redis, PostHog, Zustand, Vitest)"}
+              link={'https://13thsign.vercel.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
+            <Realisation
+              picture={news5}
+              description={"5 News (Python, Astro, TypeScript, GitHub Actions cron, i18n FR/EN/ES, GDELT, Cohere, Claude Haiku, Vercel, PWA)"}
+              link={'https://5-news.vercel.app/'}
             />
           </Col>
           <Col md={6} lg={4}>
