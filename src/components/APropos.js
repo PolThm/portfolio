@@ -19,11 +19,13 @@ class APropos extends Component {
                 </ScrollAnimation>
                 <ScrollAnimation animateIn={"fadeIn"} animateOnce={true} delay={100}>
                   <p className={"text-a-propos"}>
-                    As a Typescript specialist in Vue.js, React.js, and React Native, I am a fervent advocate of Clean Code and place great importance on its quality and maintainability (unit tests, documentation, architecture, etc).
+                    I work across the full product lifecycle, from technical design and architecture through implementation, testing, deployment and continuous improvement. I can quickly get up to speed in an existing codebase, take ownership of a feature, and work with a team to bring it safely into production.
                     <br/><br/>
-                    With the ambition to become a competent Full-Stack developer, I am currently developing my skills in Node.js to complement my Front-End expertise and get more involved in server-side development.
+                    I also help teams make practical use of AI: from prototyping ideas and automating repetitive work to integrating intelligent features into products. I use modern LLMs and development tools to move faster without compromising on sound architecture, quality or maintainability.
                     <br/><br/>
-                    A determined communicator, with a passion for solving complex challenges in an agile team or independently, I am always looking for new opportunities to develop and share my knowledge in the field of development.
+                    My experience spans React, React Native, Next.js, TypeScript and Node.js, as well as Vue.js and Angular. I care about clean architecture, reliable testing, performance and a great developer experience, and I make pragmatic technical decisions guided by product needs.
+                    <br/><br/>
+                    I enjoy solving complex challenges, modernizing applications and collaborating with engineering, design and product teams to build software that can evolve with confidence. I’m comfortable taking initiative independently while keeping communication clear and collaborative.
                   </p>
                 </ScrollAnimation>
               </div>
