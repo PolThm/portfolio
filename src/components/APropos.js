@@ -19,13 +19,11 @@ class APropos extends Component {
                 </ScrollAnimation>
                 <ScrollAnimation animateIn={"fadeIn"} animateOnce={true} delay={100}>
                   <p className={"text-a-propos"}>
-                    I work across the full product lifecycle, from technical design and architecture through implementation, testing, deployment and continuous improvement. I can quickly get up to speed in an existing codebase, take ownership of a feature, and work with a team to bring it safely into production.
+                    I work across the product lifecycle, from technical design to implementation, testing and deployment. I quickly adapt to existing codebases and take ownership of features through to production.
                     <br/><br/>
-                    I also help teams make practical use of AI: from prototyping ideas and automating repetitive work to integrating intelligent features into products. I use modern LLMs and development tools to move faster without compromising on sound architecture, quality or maintainability.
+                    I build with React, React Native, Next.js, TypeScript and Node.js, with experience in Vue.js and Angular. I value clean architecture, reliable testing and pragmatic decisions that support product needs.
                     <br/><br/>
-                    My experience spans React, React Native, Next.js, TypeScript and Node.js, as well as Vue.js and Angular. I care about clean architecture, reliable testing, performance and a great developer experience, and I make pragmatic technical decisions guided by product needs.
-                    <br/><br/>
-                    I enjoy solving complex challenges, modernizing applications and collaborating with engineering, design and product teams to build software that can evolve with confidence. I’m comfortable taking initiative independently while keeping communication clear and collaborative.
+                    I help teams integrate AI into products and workflows, and enjoy solving complex challenges with engineering, design and product teams to build software that can evolve over time.
                   </p>
                 </ScrollAnimation>
               </div>
