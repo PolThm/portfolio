@@ -16,10 +16,10 @@ class HeaderComponent extends Component {
             </Nav>
           </Navbar>
           <h1 className="text-name">Pol Thomas</h1>
-          <h2 className="text-title">Senior Software Engineer</h2>
+          <h2 className="text-title">Software Engineer</h2>
           <div className="line-header"/>
           <h3 className="text-welcome">Welcome</h3>
-          <p className="text-introduction">I build scalable web and mobile applications with React, React Native, Next.js and TypeScript, and help bring useful AI capabilities into products. Explore a selection of my work below.</p>
+          <p className="text-introduction">Hello, I’m a senior developer focused on full-stack web and mobile development, using TypeScript, AI and Node.js to build modern apps. Explore my work below.</p>
         </Container>
         <div className={"downArrow"}>
           <a href={"#mes-realisations"}>
