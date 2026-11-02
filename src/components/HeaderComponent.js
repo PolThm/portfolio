@@ -12,7 +12,7 @@ class HeaderComponent extends Component {
               <Nav.Link className={"navLink1"} href="#mes-realisations">Portfolio</Nav.Link>
               <Nav.Link className={"navLink2"} href="#a-propos">About</Nav.Link>
               <Nav.Link className={"navLink3"} onClick={this.props.openCvPdf}>CV</Nav.Link>
-              <Nav.Link className={"navLink4"} onClick={this.props.openModalContact}>Contact</Nav.Link>
+              <Nav.Link className={"navLink4"} href="https://www.linkedin.com/in/pol-thomas/" target="_blank" rel="noopener noreferrer">Contact</Nav.Link>
             </Nav>
           </Navbar>
           <h1 className="text-name">Pol Thomas</h1>
