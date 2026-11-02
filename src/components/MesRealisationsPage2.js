@@ -18,23 +18,48 @@ import associationBabel from '../img/association-babel.jpg';
 import routines from '../img/routines.jpg';
 import mood from '../img/mood.jpg';
 import bailapp from '../img/bailapp.jpg';
+import bcnCityQuest from '../img/bcn-city-quest.jpg';
+import sign13th from '../img/13th-sign.jpg';
+import news5 from '../img/5-news.jpg';
+
 
 class MesRealisationsPage2 extends React.Component {
   render() {
     return(
       <Container fluid>
         <Row>
-        <Col md={6} lg={4}>
+          <Col md={6} lg={4}>
+            <Realisation
+              picture={bcnCityQuest}
+              description={"The Ciutadella Cipher (HTML, CSS, JavaScript, PWA, i18n FR/EN/ES, Leaflet, OpenStreetMap, Geolocation)"}
+              link={'https://bcn-city-quest.vercel.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
+            <Realisation
+              picture={sign13th}
+              description={"13th Sign (Next.js, React, TypeScript, Tailwind CSS, PWA, i18n FR/EN/ES, Vercel AI SDK, Upstash Redis, PostHog, Zustand, Vitest)"}
+              link={'https://13thsign.vercel.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
             <Realisation
               picture={bailapp}
-              description={"Bailapp (React.js, TS, Firebase (Auth, Hosting, Firestore), TanStack Query, PWA, Mobile-First, Tailwind CSS, Shadcn, i18n, Vite)"}
+              description={"Bailapp (React.js, TS, Firebase (Auth, Hosting, Firestore), TanStack Query, PWA, Mobile-First, Tailwind CSS, Shadcn, i18n FR/EN/ES, Vite)"}
               link={'https://bailapp.web.app/'}
             />
           </Col>
           <Col md={6} lg={4}>
             <Realisation
+              picture={news5}
+              description={"5 News (Python, Astro, TypeScript, GitHub Actions cron, i18n FR/EN/ES, GDELT, Cohere, Claude Haiku, Vercel, PWA)"}
+              link={'https://5-news.vercel.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
+            <Realisation
               picture={routines}
-              description={"Routines (Next.js, TS, MUI, Howler, Vercel)"}
+              description={"Routines (Next.js, TS, MUI, Howler, Vercel, i18n FR/EN/ES)"}
               link={'https://routines-pol.vercel.app/'}
             />
           </Col>
