@@ -19,7 +19,7 @@ class HeaderComponent extends Component {
           <h2 className="text-title">Software Engineer</h2>
           <div className="line-header"/>
           <h3 className="text-welcome">Welcome</h3>
-          <p className="text-introduction">Hello, I’m a senior developer focused on full-stack web and mobile development, using TypeScript, AI and Node.js to build modern apps. Explore my work below.</p>
+          <p className="text-introduction">Hello, I’m a senior developer specializing in full-stack web and mobile applications, with a focus on TypeScript, Node.js, and AI. Explore my work below.</p>
         </Container>
         <div className={"downArrow"}>
           <a href={"#mes-realisations"}>
