@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5b5631b451d6cd300f8aa0393024b42",
+    "revision": "eb72396eff036c2a747f5c18db86c0bf",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7471e48c6d4904f3d1e2",
+    "revision": "975989ff4688a7c73f20",
     "url": "/portfolio/static/css/2.c2374459.chunk.css"
   },
   {
-    "revision": "c6e99cdbd9520f8663bd",
+    "revision": "c31d82c6019358c16592",
     "url": "/portfolio/static/css/main.314cc00a.chunk.css"
   },
   {
-    "revision": "7471e48c6d4904f3d1e2",
-    "url": "/portfolio/static/js/2.96abc175.chunk.js"
+    "revision": "975989ff4688a7c73f20",
+    "url": "/portfolio/static/js/2.da736094.chunk.js"
   },
   {
     "revision": "6797e5c66647ce03b80657a81e8747c5",
-    "url": "/portfolio/static/js/2.96abc175.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.da736094.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6e99cdbd9520f8663bd",
-    "url": "/portfolio/static/js/main.fb8f3842.chunk.js"
+    "revision": "c31d82c6019358c16592",
+    "url": "/portfolio/static/js/main.1ee999b8.chunk.js"
   },
   {
     "revision": "0516e9d163b1cfbefeda",
     "url": "/portfolio/static/js/runtime-main.803c8805.js"
+  },
+  {
+    "revision": "b2bbd0cc329339a0e1845774b49c1d6f",
+    "url": "/portfolio/static/media/13th-sign.b2bbd0cc.jpg"
+  },
+  {
+    "revision": "3bdff1e16f743ebf6ab5d957e15b2e57",
+    "url": "/portfolio/static/media/5-news.3bdff1e1.jpg"
   },
   {
     "revision": "6f6f82d9243d8111301f39648fb1d62b",
@@ -46,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df7c7620fd90a9d3e4c1c00dbacfbf19",
     "url": "/portfolio/static/media/bailapp.df7c7620.jpg"
+  },
+  {
+    "revision": "dbdcceb44aa2b24d26850a6d968e6d3d",
+    "url": "/portfolio/static/media/bcn-city-quest.dbdcceb4.jpg"
   },
   {
     "revision": "98a95586d32d4514340f6761e6eb889d",

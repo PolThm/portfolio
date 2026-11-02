@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.314cc00a.chunk.css",
-    "main.js": "/portfolio/static/js/main.fb8f3842.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fb8f3842.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.1ee999b8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1ee999b8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.803c8805.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.803c8805.js.map",
     "static/css/2.c2374459.chunk.css": "/portfolio/static/css/2.c2374459.chunk.css",
-    "static/js/2.96abc175.chunk.js": "/portfolio/static/js/2.96abc175.chunk.js",
-    "static/js/2.96abc175.chunk.js.map": "/portfolio/static/js/2.96abc175.chunk.js.map",
+    "static/js/2.da736094.chunk.js": "/portfolio/static/js/2.da736094.chunk.js",
+    "static/js/2.da736094.chunk.js.map": "/portfolio/static/js/2.da736094.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0ca9f21b067434fcf85ec835704201fe.js": "/portfolio/precache-manifest.0ca9f21b067434fcf85ec835704201fe.js",
+    "precache-manifest.c1dd0f41c1024b2751e337201c186eed.js": "/portfolio/precache-manifest.c1dd0f41c1024b2751e337201c186eed.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.c2374459.chunk.css.map": "/portfolio/static/css/2.c2374459.chunk.css.map",
     "static/css/main.314cc00a.chunk.css.map": "/portfolio/static/css/main.314cc00a.chunk.css.map",
-    "static/js/2.96abc175.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96abc175.chunk.js.LICENSE.txt",
+    "static/js/2.da736094.chunk.js.LICENSE.txt": "/portfolio/static/js/2.da736094.chunk.js.LICENSE.txt",
+    "static/media/13th-sign.jpg": "/portfolio/static/media/13th-sign.b2bbd0cc.jpg",
+    "static/media/5-news.jpg": "/portfolio/static/media/5-news.3bdff1e1.jpg",
     "static/media/App.css": "/portfolio/static/media/background_header.6e94a46f.jpg",
     "static/media/association-babel.jpg": "/portfolio/static/media/association-babel.7aa3017d.jpg",
     "static/media/bailapp.jpg": "/portfolio/static/media/bailapp.df7c7620.jpg",
+    "static/media/bcn-city-quest.jpg": "/portfolio/static/media/bcn-city-quest.dbdcceb4.jpg",
     "static/media/beer-bet.jpg": "/portfolio/static/media/beer-bet.98a95586.jpg",
     "static/media/chouquette-bet.jpg": "/portfolio/static/media/chouquette-bet.596eaeac.jpg",
     "static/media/demapp.jpg": "/portfolio/static/media/demapp.d24c19b9.jpg",
@@ -49,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.803c8805.js",
     "static/css/2.c2374459.chunk.css",
-    "static/js/2.96abc175.chunk.js",
+    "static/js/2.da736094.chunk.js",
     "static/css/main.314cc00a.chunk.css",
-    "static/js/main.fb8f3842.chunk.js"
+    "static/js/main.1ee999b8.chunk.js"
   ]
 }
