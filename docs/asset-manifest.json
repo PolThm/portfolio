@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.314cc00a.chunk.css",
-    "main.js": "/portfolio/static/js/main.e6111bc7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e6111bc7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c33cd042.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c33cd042.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.803c8805.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.803c8805.js.map",
     "static/css/2.c2374459.chunk.css": "/portfolio/static/css/2.c2374459.chunk.css",
-    "static/js/2.da736094.chunk.js": "/portfolio/static/js/2.da736094.chunk.js",
-    "static/js/2.da736094.chunk.js.map": "/portfolio/static/js/2.da736094.chunk.js.map",
+    "static/js/2.a500f21c.chunk.js": "/portfolio/static/js/2.a500f21c.chunk.js",
+    "static/js/2.a500f21c.chunk.js.map": "/portfolio/static/js/2.a500f21c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6669dc9d1f3aa3aef29d7ab51eeadabd.js": "/portfolio/precache-manifest.6669dc9d1f3aa3aef29d7ab51eeadabd.js",
+    "precache-manifest.9de72915f80c689213f1084bda2eeb66.js": "/portfolio/precache-manifest.9de72915f80c689213f1084bda2eeb66.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.c2374459.chunk.css.map": "/portfolio/static/css/2.c2374459.chunk.css.map",
     "static/css/main.314cc00a.chunk.css.map": "/portfolio/static/css/main.314cc00a.chunk.css.map",
-    "static/js/2.da736094.chunk.js.LICENSE.txt": "/portfolio/static/js/2.da736094.chunk.js.LICENSE.txt",
+    "static/js/2.a500f21c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a500f21c.chunk.js.LICENSE.txt",
     "static/media/13th-sign.jpg": "/portfolio/static/media/13th-sign.b2bbd0cc.jpg",
     "static/media/5-news.jpg": "/portfolio/static/media/5-news.3bdff1e1.jpg",
     "static/media/App.css": "/portfolio/static/media/background_header.6e94a46f.jpg",
@@ -32,6 +32,7 @@
     "static/media/mood.jpg": "/portfolio/static/media/mood.f7181ae4.jpg",
     "static/media/moovies.jpg": "/portfolio/static/media/moovies.02d5dfec.jpg",
     "static/media/mytrip.jpg": "/portfolio/static/media/mytrip.9616e130.jpg",
+    "static/media/oarwise.jpg": "/portfolio/static/media/oarwise.bbcfb56b.jpg",
     "static/media/octappus.jpg": "/portfolio/static/media/octappus.4b5de0e3.jpg",
     "static/media/paslchoix.jpg": "/portfolio/static/media/paslchoix.d8244f72.jpg",
     "static/media/pol-profil-bw.jpg": "/portfolio/static/media/pol-profil-bw.cb11efbf.jpg",
@@ -52,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.803c8805.js",
     "static/css/2.c2374459.chunk.css",
-    "static/js/2.da736094.chunk.js",
+    "static/js/2.a500f21c.chunk.js",
     "static/css/main.314cc00a.chunk.css",
-    "static/js/main.e6111bc7.chunk.js"
+    "static/js/main.c33cd042.chunk.js"
   ]
 }
