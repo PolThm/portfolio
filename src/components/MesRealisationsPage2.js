@@ -21,8 +21,7 @@ import bailapp from '../img/bailapp.jpg';
 import bcnCityQuest from '../img/bcn-city-quest.jpg';
 import sign13th from '../img/13th-sign.jpg';
 import news5 from '../img/5-news.jpg';
-
-
+import oarwise from '../img/oarwise.jpg';
 class MesRealisationsPage2 extends React.Component {
   render() {
     return(
@@ -61,6 +60,13 @@ class MesRealisationsPage2 extends React.Component {
               picture={routines}
               description={"Routines (Next.js, TS, MUI, Howler, Vercel, i18n FR/EN/ES)"}
               link={'https://routines-pol.vercel.app/'}
+            />
+          </Col>
+          <Col md={6} lg={4}>
+            <Realisation
+              picture={oarwise}
+              description={"Oarwise (Next.js, React, TypeScript, Tailwind CSS)"}
+              link={'https://oarwise.netlify.app/'}
             />
           </Col>
           <Col md={6} lg={4}>
