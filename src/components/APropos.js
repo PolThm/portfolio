@@ -19,11 +19,11 @@ class APropos extends Component {
                 </ScrollAnimation>
                 <ScrollAnimation animateIn={"fadeIn"} animateOnce={true} delay={100}>
                   <p className={"text-a-propos"}>
-                    I work across the product lifecycle, from technical design to implementation, testing and deployment. I quickly adapt to existing codebases and take ownership of features through to production.
+                    From technical design to implementation, testing and deployment, I contribute across the product lifecycle. I adapt quickly to existing codebases and take ownership of features through to production.
                     <br/><br/>
-                    I build with React, React Native, Next.js, TypeScript and Node.js, with experience in Vue.js and Angular. I value clean architecture, reliable testing and pragmatic decisions that support product needs.
+                    My experience spans React, React Native, Next.js, TypeScript and Node.js, as well as Vue.js and Angular. Clean architecture, reliable testing and pragmatic decisions guide my work.
                     <br/><br/>
-                    I help teams integrate AI into products and workflows, and enjoy solving complex challenges with engineering, design and product teams to build software that can evolve over time.
+                    Alongside integrating AI into products and workflows, I enjoy solving complex challenges with engineering, design and product teams to build software that can evolve over time.
                   </p>
                 </ScrollAnimation>
               </div>
